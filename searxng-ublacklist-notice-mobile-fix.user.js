@@ -1,27 +1,27 @@
 // ==UserScript==
-// @name         SearXNGでUBlacklist通知をモバイル最適化 📱
-// @name:ja      SearXNGでUBlacklist通知をモバイル最適化 📱
-// @name:en      Optimize UBlacklist Notice on SearXNG Mobile 📱
-// @name:zh-CN   在 SearXNG 移动端优化 UBlacklist 通知 📱
-// @name:zh-TW   在 SearXNG 行動版最佳化 UBlacklist 通知 📱
+// @name         SearXNGでuBlacklist通知をモバイル最適化 📱
+// @name:ja      SearXNGでuBlacklist通知をモバイル最適化 📱
+// @name:en      Optimize uBlacklist Notice on SearXNG Mobile 📱
+// @name:zh-CN   在 SearXNG 移动端优化 uBlacklist 通知 📱
+// @name:zh-TW   在 SearXNG 行動版最佳化 uBlacklist 通知 📱
 // @name:ko      SearXNG 모바일에서 UBlacklist 알림 최적화 📱
-// @name:fr      Optimiser la notification UBlacklist sur SearXNG Mobile 📱
-// @name:es      Optimizar notificación de UBlacklist en SearXNG móvil 📱
-// @name:de      UBlacklist-Hinweise auf SearXNG mobil optimieren 📱
-// @name:pt-BR   Otimizar notificação do UBlacklist no SearXNG Mobile 📱
-// @name:ru      Оптимизировать уведомления UBlacklist на SearXNG Mobile 📱
+// @name:fr      Optimiser la notification uBlacklist sur SearXNG Mobile 📱
+// @name:es      Optimizar notificación de uBlacklist en SearXNG móvil 📱
+// @name:de      uBlacklist-Hinweise auf SearXNG mobil optimieren 📱
+// @name:pt-BR   Otimizar notificação do uBlacklist no SearXNG Mobile 📱
+// @name:ru      Оптимизировать уведомления uBlacklist на SearXNG Mobile 📱
 // @version      1.0.0
-// @description         Repositions UBlacklist notices below search filters on SearXNG mobile pages for better visibility.
-// @description:ja      SearXNGの検索結果ページに表示されるUBlacklist通知を、モバイル表示時に見やすく再配置します。
-// @description:en      Repositions UBlacklist notices on SearXNG mobile to a separate line below search filters for improved visibility.
-// @description:zh-CN   在 SearXNG 移动端将 UBlacklist 通知移到搜索过滤器下方以提高可见性。
-// @description:zh-TW   在 SearXNG 行動裝置上將 UBlacklist 通知移到搜尋篩選器下方以提升可見性。
-// @description:ko      SearXNG 모바일 환경에서 UBlacklist 알림을 검색 필터 아래로 옮겨 가시성을 개선합니다。
-// @description:fr      Sur SearXNG mobile, déplace les notifications UBlacklist sous les filtres pour une meilleure visibilité.
-// @description:es      Mejora la visibilidad de las notificaciones de UBlacklist en móviles moviéndolas debajo de los filtros en SearXNG.
-// @description:de      Verschiebt UBlacklist-Hinweise auf mobilen SearXNG-Seiten unter die Filter zur besseren Sichtbarkeit.
-// @description:pt-BR   Melhora a visibilidade das notificações do UBlacklist no SearXNG mobile, reposicionando-as abaixo dos filtros.
-// @description:ru      Перемещает уведомления UBlacklist под фильтры на мобильных страницах SearXNG для лучшей видимости.
+// @description         Repositions uBlacklist notices below search filters on SearXNG mobile pages for better visibility.
+// @description:ja      SearXNGの検索結果ページに表示されるuBlacklist通知を、モバイル表示時に見やすく再配置します。
+// @description:en      Repositions uBlacklist notices on SearXNG mobile to a separate line below search filters for improved visibility.
+// @description:zh-CN   在 SearXNG 移动端将 uBlacklist 通知移到搜索过滤器下方以提高可见性。
+// @description:zh-TW   在 SearXNG 行動裝置上將 uBlacklist 通知移到搜尋篩選器下方以提升可見性。
+// @description:ko      SearXNG 모바일 환경에서 uBlacklist 알림을 검색 필터 아래로 옮겨 가시성을 개선합니다。
+// @description:fr      Sur SearXNG mobile, déplace les notifications uBlacklist sous les filtres pour une meilleure visibilité.
+// @description:es      Mejora la visibilidad de las notificaciones de uBlacklist en móviles moviéndolas debajo de los filtros en SearXNG.
+// @description:de      Verschiebt uBlacklist-Hinweise auf mobilen SearXNG-Seiten unter die Filter zur besseren Sichtbarkeit.
+// @description:pt-BR   Melhora a visibilidade das notificações do uBlacklist no SearXNG mobile, reposicionando-as abaixo dos filtros.
+// @description:ru      Перемещает уведомления uBlacklist под фильтры на мобильных страницах SearXNG для лучшей видимости.
 // @namespace    https://github.com/koyasi777/searxng-ublacklist-mobile-notice-fix
 // @author       koyasi777
 // @match        *://*/searx/search*
