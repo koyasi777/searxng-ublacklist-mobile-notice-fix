@@ -65,6 +65,7 @@
     notificationSpans.forEach(span => {
       const wrapper = document.createElement('div');
       wrapper.style.marginTop = '8px';
+      wrapper.style.marginBottom = '12px';
       wrapper.style.paddingLeft = paddingLeft;
       wrapper.style.marginLeft = marginLeft;
       wrapper.style.fontSize = '90%';
