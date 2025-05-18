@@ -13,6 +13,7 @@
 // @version      1.0.0
 // @description         Repositions UBlacklist notices below search filters on SearXNG mobile pages for better visibility.
 // @description:ja      SearXNGの検索結果ページに表示されるUBlacklist通知を、モバイル表示時に見やすく再配置します。
+// @description:en      Repositions UBlacklist notices on SearXNG mobile to a separate line below search filters for improved visibility.
 // @description:zh-CN   在 SearXNG 移动端将 UBlacklist 通知移到搜索过滤器下方以提高可见性。
 // @description:zh-TW   在 SearXNG 行動裝置上將 UBlacklist 通知移到搜尋篩選器下方以提升可見性。
 // @description:ko      SearXNG 모바일 환경에서 UBlacklist 알림을 검색 필터 아래로 옮겨 가시성을 개선합니다。
